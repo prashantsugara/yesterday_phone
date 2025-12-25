@@ -1,0 +1,50 @@
+Privacy Policy for Yesterday Phone
+Last updated: 2025-12-25
+
+This Privacy Policy describes how Yesterday Phone ("we", "us", or "our") collects, uses, and shares information about you when you use our mobile application (the "App").
+
+We are committed to protecting your privacy. This policy details the permissions we request and how they are used to provide the App's core functionality.
+
+1. Information Collection and Use
+The App requires specific permissions to function effectively. Below is a detailed explanation of the data we access and why:
+
+A. App Usage Data (Usage Stats)
+Permission: android.permission.PACKAGE_USAGE_STATS (Usage Access) & android.permission.QUERY_ALL_PACKAGES
+Purpose: The core feature of Yesterday Phone is to provide you with insights into your digital habits, specifically comparing your phone usage "Today" vs. "Yesterday".
+Data Collected: We access your device's usage history to calculate:
+Total screen time involved.
+Time spent in specific applications.
+Number of times the device was unlocked.
+Privacy: This data is processed locally on your device. We do not transmit your personal app usage history to any external server. It is strictly used to display your dashboard insights.
+B. Physical Activity (Step Counter)
+Permission: android.permission.ACTIVITY_RECOGNITION & com.google.android.gms.permission.ACTIVITY_RECOGNITION
+Purpose: To track your daily steps and physical activity levels as part of your "Morning Mirror" summary.
+Data Collected: Step counts and basic activity type (walking).
+Privacy: This data remains local to your device and is used solely for the "Steps" metric on your dashboard.
+C. Notifications
+Permission: android.permission.POST_NOTIFICATIONS
+Purpose: To send you the daily "Morning Mirror" summary (a notification that prompts you to review yesterday's stats) and alerts related to service functionality.
+D. Background Processing
+Permissions: FOREGROUND_SERVICE, FOREGROUND_SERVICE_DATA_SYNC, RECEIVE_BOOT_COMPLETED, WAKE_LOCK
+Purpose: These permissions allow the App to verify your usage data and schedule correctly timed notifications (such as the morning summary) even if you haven't opened the App recently. The "Data Sync" type is used to ensure your usage statistics are up-to-date in the background.
+2. Third-Party Services
+We may employ third-party companies and services to facilitate our Service, to provide the Service on our behalf, to perform Service-related services, or to assist us in analyzing how our Service is used.
+
+A. Google AdMob
+Purpose: To display advertisements (Banner, App Open, and Rewarded Ads).
+Data: AdMob may collect information such as your Advertising ID (android.permission.AD_ID), IP address, and device usage data to verify ad views and provide personalized advertising.
+Link: Google AdMob Privacy Policy
+B. Firebase Remote Config & Core
+Purpose: To manage app configuration (such as feature toggles and ad unit IDs) remotely.
+Data: Firebase may collect instance IDs and crash reports to ensure app stability.
+Link: Firebase Privacy Policy
+3. Data Retention and Deletion
+Local Data: All personal usage stats and step data are stored locally on your device. Uninstalling the App will permanently delete this data.
+Third-Party Data: Data collected by third-party partners (like AdMob) is retained in accordance with their respective privacy policies.
+4. Children’s Privacy
+Our Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
+
+5. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+
+Email: bittruth1solutions@gmail.com
